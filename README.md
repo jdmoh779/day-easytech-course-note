@@ -1,1 +1,1 @@
-# day-easytech-course-note
+# day2-easytech-course-note
